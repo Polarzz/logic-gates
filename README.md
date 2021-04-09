@@ -1,7 +1,5 @@
 # logic-gates
 
-This information assumes you access to both NOT and AND gates. <br>
-
 <h2> NAND </h2>
 <br>
 NAND (and NOR as it's truth table is flipped) are capable of creating every other logic gate. <br>
@@ -19,7 +17,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NAND.png)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NAND.png = 100x)
 
 <br>
 
@@ -38,7 +36,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/OR.png)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/OR.png =100x)
 
 <br>
 
@@ -55,7 +53,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NOR.png)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NOR.png =100x)
 
 <br>
 
@@ -73,7 +71,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XOR.png)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XOR.png =100x)
 
 <br>
 
@@ -90,7 +88,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XNOR.png)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XNOR.png =100x)
 
 <br>
 
