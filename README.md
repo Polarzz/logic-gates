@@ -17,7 +17,8 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NAND.png = 100x)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NAND.png){height=200px width=200px}
+
 
 <br>
 
@@ -36,7 +37,8 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/OR.png =100x)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/OR.png){height=200px width=200px}
+
 
 <br>
 
@@ -53,7 +55,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NOR.png =100x)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/NOR.png){height=200px width=200px}
 
 <br>
 
@@ -71,7 +73,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XOR.png =100x)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XOR.png){height=200px width=200px}
 
 <br>
 
@@ -88,7 +90,7 @@ NAND (and NOR as it's truth table is flipped) are capable of creating every othe
 
 <h3> Construction </h3>
 
-![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XNOR.png =100x)
+![](https://github.com/Polarzz/logic-gates/blob/main/Logic%20Gates/XNOR.png){height=200px width=200px}
 
 <br>
 
